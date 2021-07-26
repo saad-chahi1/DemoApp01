@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\AppDemo\AppDemo\bin\Debug\AppDemo.exe.config
+C:\Users\PC\source\repos\AppDemo\AppDemo\bin\Debug\AppDemo.exe
+C:\Users\PC\source\repos\AppDemo\AppDemo\bin\Debug\AppDemo.pdb
+C:\Users\PC\source\repos\AppDemo\AppDemo\bin\Debug\appCommon.dll
+C:\Users\PC\source\repos\AppDemo\AppDemo\bin\Debug\appData.dll
+C:\Users\PC\source\repos\AppDemo\AppDemo\bin\Debug\appSDK.dll
+C:\Users\PC\source\repos\AppDemo\AppDemo\bin\Debug\EntityFramework.dll
+C:\Users\PC\source\repos\AppDemo\AppDemo\bin\Debug\NSspi.dll
+C:\Users\PC\source\repos\AppDemo\AppDemo\obj\Debug\AppDemo.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\AppDemo\AppDemo\obj\Debug\AppDemo.csproj.CopyComplete
+C:\Users\PC\source\repos\AppDemo\AppDemo\obj\Debug\AppDemo.exe
+C:\Users\PC\source\repos\AppDemo\AppDemo\obj\Debug\AppDemo.pdb
+C:\Users\PC\source\repos\AppDemo\AppDemo\obj\Debug\AppDemo.csprojAssemblyReference.cache
